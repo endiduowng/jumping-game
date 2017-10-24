@@ -1,0 +1,68 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     928 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.334 seconds
+Platform assembly: C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\duong\Documents\Jump\Builds\Jumping_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 10.692774 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.672402 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 782.
+Total: 0.760178 ms (FindLiveObjects: 0.116735 ms CreateObjectMapping: 0.053061 ms MarkObjects: 0.565805 ms  DeleteObjects: 0.022900 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.525179 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 0.916012 ms (FindLiveObjects: 0.088250 ms CreateObjectMapping: 0.055854 ms MarkObjects: 0.530058 ms  DeleteObjects: 0.240174 ms)
+
+Activated checkpoint: (-9.7, 0.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerController.Jump () [0x00000] in <filename unknown>:0 
+  at PlayerController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.920481 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 782.
+Total: 0.712144 ms (FindLiveObjects: 0.124555 ms CreateObjectMapping: 0.053620 ms MarkObjects: 0.521121 ms  DeleteObjects: 0.011170 ms)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated checkpoint: (-9.7, 0.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d60 -> priority: 1 

@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\KillPlayer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyPatrol.cs" Line="1" Column="17" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="29" Column="1" />
+      <File FileName="Assets\Scripts\NinjaStarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShootAtPlayerRange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KillPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FlyerEnemyMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LifeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HurtPlayerOnContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthPickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinPickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TouchControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelSelectManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LifePickUp.cs" Line="2" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
